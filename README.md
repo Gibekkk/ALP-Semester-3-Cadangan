@@ -11,9 +11,9 @@ php artisan migrate:fresh --seed
 ```
 
 ## Running the project
-`
+```
 php artisan ser
-`
+```
 
 ### Test User
 - Email: text@example.com
