@@ -3,11 +3,11 @@
 - Laravel Version 11.35.1
 
 ### Instalation
-`
+```
 composer install
 php artisan migrate
 php artisan migrate:fresh --seed
-`
+```
 
 ## Running the project
 `
