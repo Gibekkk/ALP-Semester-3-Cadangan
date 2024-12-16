@@ -1,6 +1,7 @@
 ### Requirements
 - PHP Version 8.3.13
 - Laravel Version 11.35.1
+- Composer Version 2.8.1
 
 ### Instalation
 ```
